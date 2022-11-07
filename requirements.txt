@@ -1,0 +1,10 @@
+sentence-transformers==2.2.2
+flask==2.1.2
+flask_cors==3.0.10
+opensearch-py==1.1.0
+pillow==8.2
+base58==2.1.0
+opencv-python>=3.4.2.17
+libsvm>=3.23.0
+weaviate-client
+scikit-image
